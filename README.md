@@ -8,6 +8,7 @@
 - [x] Capturar os Pokémon que você quiser na sua Pokedéx
 - [x] Excluir os Pokémon da sua Pokedéx
 - [x] Ver os detalhes de cada Pokémon
+- [x] Responsivo!
 ---
 
 ## 🛠️ Tecnologias Utilizadas
