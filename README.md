@@ -8,6 +8,7 @@
 - [x] Capturar os Pokémon que você quiser na sua Pokedéx
 - [x] Excluir os Pokémon da sua Pokedéx
 - [x] Ver os detalhes de cada Pokémon
+- [x] Responsivo!
 ---
 
 ## 🛠️ Tecnologias Utilizadas
@@ -26,7 +27,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 # Link 
 Para vizualizar o projeto é possível acesá-lo através do link a seguir:
 
-<a href="https://tedious-reading.surge.sh/" target="_blank">Link Surge</a>
+<a href="https://dead-degree.surge.sh/" target="_blank">Link Surge</a>
 
 ## ✒️ Autor
 
