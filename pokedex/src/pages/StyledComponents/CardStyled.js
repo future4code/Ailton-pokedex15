@@ -51,7 +51,6 @@ border-radius: 8px;
 padding: 4px, 10px, 4px, 10px;
 font-size: 16px;
 font-family: 'Poppins';
-text-align: center;
 font-weight: 400;
 color: black;
 position: absolute;
@@ -61,9 +60,10 @@ background-color: #d3d3d3;
 cursor: pointer;
 }
 @media only screen and (max-width: 800px){
-  font-size: 12px;
-  width: 18vw;
+  font-size: 10px;
+  width: 22vw;
   height: 3vh;
+  align-items: center;
 }
 `
 
@@ -79,14 +79,13 @@ padding: 4px, 10px, 4px, 10px;
 font-size: 16px;
 font-family: 'Poppins';
 font-weight: 400;
-line-height: 24px;
 background-color: #3eb93e;
 color: white;
 position: absolute;
 border: none;
 @media only screen and (max-width: 800px){
   font-size: 10px;
-  width: 18vw;
+  width: 22vw;
   height: 3vh;
 }
 `
@@ -102,7 +101,6 @@ padding: 4px, 10px, 4px, 10px;
 font-size: 16px;
 font-family: 'Poppins';
 font-weight: 400;
-line-height: 24px;
 background-color: #FF6262;
 color: white;
 position: absolute;
@@ -112,9 +110,10 @@ background-color: #ffa9a9;
 cursor: pointer;
 }
 @media only screen and (max-width: 800px){
-  font-size: 12px;
-  width: 70px;
-  height: 30px;
+  font-size: 10px;
+  width: 22vw;
+  height: 3vh;
+  /* align-items: center; */
 }
 `
 
