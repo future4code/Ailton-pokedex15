@@ -135,7 +135,8 @@ cursor: pointer;
 @media only screen and (max-width: 800px){
   font-size: 12px;
   left: 3px;
-  height: 35px;
+  line-height:0 ;
+  top: 90px;
 }
 `
 
@@ -346,7 +347,6 @@ font-size: 16px;
 display: inline;
 @media only screen and (max-width: 800px){
   font-size: 10px;
-  /* margin: auto; */
 }
 `
 
@@ -380,7 +380,7 @@ margin: 1vh 0 4vh;
 
 export const MainImage = styled.img`
 position: absolute;
-top: 10vh;
+top: 4vh;
 width: 10vw;
 height: 20vh;
 margin: 0;
