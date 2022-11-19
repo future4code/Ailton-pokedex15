@@ -81,6 +81,7 @@ text-transform: none;
 text-align: center;
 @media only screen and (max-width: 800px){
     font-size: 30px;
+    padding: 0;
 }
 `
 
@@ -95,7 +96,7 @@ line-height: 24px;
 text-transform: none;
 text-align: center;
 @media only screen and (max-width: 800px){
-    font-size: 16px;
+    font-size: 14px;
 }
 `
 export const CloseButton = styled.button`
@@ -112,7 +113,6 @@ font-family: 'Poppins';
 font-style: normal;
 font-weight: 700;
 font-size: 12px;
-line-height: 36px;
 &:hover{
 background-color:#ffa9a9;
 cursor: pointer;

@@ -2,20 +2,13 @@ import axios from 'axios'
 import React, { createContext, useContext, useEffect, useState } from 'react'
 import { useNavigate } from 'react-router-dom'
 import PokeCard from './PokeCard'
-import { Background, Title, MapContainer, ModalContainer, Modal, Modal2, Modal2Delete, ModalDelete, ModalContainerDelete, CloseButton, DarkContainer, LoadMoreButton } from './StyledComponents/HomeStyled'
+import { Background, Title, MapContainer, ModalContainer, Modal, Modal2, CloseButton, DarkContainer, LoadMoreButton } from './StyledComponents/HomeStyled'
 import { GlobalContext } from '../Global/GlobalContext'
 import Header from '../Global/Header/Header'
 
 export const Context = createContext()
 
 const Home = () => {
-    const navigate = useNavigate()
-
-    const goToMyPokemon = () => {
-        navigate("myPokemon")
-    }
-
-    const [details, setDetails] = useState('none')
 
     const [modal, setModal] = useState('none')
     const closeModal = () => {
