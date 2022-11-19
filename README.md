@@ -27,7 +27,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 # Link 
 Para vizualizar o projeto é possível acesá-lo através do link a seguir:
 
-<a href="https://dead-degree.surge.sh/" target="_blank">Link Surge</a>
+<a href="https://bewildered-waste.surge.sh/" target="_blank">Link Surge</a>
 
 ## ✒️ Autor
 
