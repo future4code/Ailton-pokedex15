@@ -33,7 +33,9 @@ export const PokeballBackground = styled.img`
 position: absolute;
 right: 0;
 width: 15vw;
+max-width: 300px;
 height: 23vh;
+max-height: 240px;
 @media only screen and (max-width: 800px){
   width: 25vw;
   height: 15vh;
