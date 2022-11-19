@@ -189,7 +189,7 @@ max-width: 91px;
 max-height: 31px;
 margin-right: 10px;
 @media only screen and (max-width: 800px){
-  width: 50px;
+  width: 15vw;
   height: 22px;
 }
 `
