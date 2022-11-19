@@ -96,7 +96,7 @@ line-height: 24px;
 text-transform: none;
 text-align: center;
 @media only screen and (max-width: 800px){
-    font-size: 14px;
+    font-size: 16px;
 }
 `
 export const CloseButton = styled.button`
