@@ -447,8 +447,8 @@ width: 40vw;
 height: 70vh;
 @media only screen and (max-width: 800px){
   right: 6vw;
-  width: 400px;
-  height: 450px;
+  width: 100vw;
+  height: 54vh;
 }`
 
 export const CloseButton = styled.button`
