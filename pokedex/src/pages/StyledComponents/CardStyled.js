@@ -35,8 +35,8 @@ right: 0;
 width: 15vw;
 height: 23vh;
 @media only screen and (max-width: 800px){
-  width: 100px;
-  height: 140px;
+  width: 25vw;
+  height: 15vh;
 }
 `
 
@@ -51,8 +51,8 @@ border-radius: 8px;
 padding: 4px, 10px, 4px, 10px;
 font-size: 16px;
 font-family: 'Poppins';
+text-align: center;
 font-weight: 400;
-line-height: 24px;
 color: black;
 position: absolute;
 border: none;
@@ -62,8 +62,8 @@ cursor: pointer;
 }
 @media only screen and (max-width: 800px){
   font-size: 12px;
-  width: 70px;
-  height: 30px;
+  width: 18vw;
+  height: 3vh;
 }
 `
 
@@ -86,8 +86,8 @@ position: absolute;
 border: none;
 @media only screen and (max-width: 800px){
   font-size: 10px;
-  width: 70px;
-  height: 30px;
+  width: 18vw;
+  height: 3vh;
 }
 `
 export const DeleteButton = styled.button`
@@ -136,7 +136,7 @@ cursor: pointer;
   font-size: 12px;
   left: 3px;
   line-height:0 ;
-  top: 90px;
+  top: 12vh;
 }
 `
 
